@@ -1,0 +1,8 @@
+This project explores continuous trust as a security primitive.
+
+Instead of authenticating users once and assuming trust,
+the system continuously evaluates behavioral similarity
+and silently enforces access degradation as trust decays.
+
+The focus is subtle, effective, and ethical security design
+aligned with modern Zero Trust architectures.
